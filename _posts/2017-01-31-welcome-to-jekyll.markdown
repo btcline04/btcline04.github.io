@@ -16,19 +16,3 @@ Scraping the website that I wished to pull my data from was one of the biggest c
 I feel more confident in my abilities after creating something like this from scratch. The gem that I've created will be able to scrape data and pull it from the live webpage. This was important to me. As more years and information get added, I wanted my gem to still be able to work.
 
 Going forward, I'd like to publish this gem to RubyGems.org and add a bit more functionality. I hope to be able to make it a little bit easier to read as it prints to the terminal. I'm looking forward to the challenge.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
