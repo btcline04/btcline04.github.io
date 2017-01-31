@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "NBA Scoring Leaders CLI Gem"
 date:   2017-01-31 18:24:41 -0500
 categories: jekyll update
 ---
