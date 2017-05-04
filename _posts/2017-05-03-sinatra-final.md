@@ -1,6 +1,5 @@
 ---
 layout: post
-date:
 title: "Sinatra Final Project"
 ---
 
